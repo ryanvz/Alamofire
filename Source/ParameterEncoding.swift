@@ -37,6 +37,7 @@ public enum HTTPMethod: String {
     case delete  = "DELETE"
     case trace   = "TRACE"
     case connect = "CONNECT"
+    case mkcol   = "MKCOL"
 }
 
 // MARK: -
